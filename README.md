@@ -1,2 +1,2 @@
-# Alice_Novel-Sample
-Alice Novel用のバージョン別サンプルゲームです。
+# Alice Novel (Sample Game)
+This projects are sample games for Alice Novel. / Alice Novel用のバージョン別サンプルゲームです。
