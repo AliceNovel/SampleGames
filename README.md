@@ -4,11 +4,14 @@ This projects are sample games for Alice Novel. / Alice Novel用のバージョ�
 [Alice Novel](https://alicenovel.web.app) is a game engine for creating mobile and desktop games.
 
 ## Official Samples
-- [v0.8.x](./v0.8.x)
+- ~~[v0.8.x](./v0.8.x)~~
 - [v0.9.x](./v0.9.x)
+  - [v0.9.0-alpha](./v0.9.x/v0.9.0-alpha)
+  - [v0.9.0-beta](./v0.9.x/v0.9.0-beta)
+  - [v0.9.0-rc1](./v0.9.x/v0.9.0-rc1)
 
 ## Community Samples
-None now. Welcome to contributes.
+- [Ivy Cafeteria - SRFB](https://github.com/ivycafe/srfb/tree/main/src) (v0.9.1 or later)
 
 ## Alice Novel Links
 - [Alice Novel Website](https://alicenovel.web.app)
