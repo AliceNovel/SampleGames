@@ -19,4 +19,4 @@ This projects are sample games for Alice Novel. / Alice Novel用のバージョ�
 - [Alice Project GitHub](https://github.com/alicenovel)
 
 ## License
-This project is licensed under the [GFDL-1.3](./LICENSE) license
+This project is licensed under the [CC BY 4.0](./LICENSE).
