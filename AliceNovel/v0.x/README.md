@@ -1,12 +1,8 @@
 # v0.x
 
-## Version Information
-
-### Released Version 
-
-- ~~v0.8.0~~ (was designed only UI, it other words, this is not game engine in in this version. So its sample is not exist)
-- [v0.9.0-alpha](v0.9.0-alpha/main.anov)
-- [v0.9.0-beta](v0.9.0-beta/main.anov)
+- ~~v0.8.0~~[^v0-8-0]
+- [v0.9.0-alpha](v0.9.0-alpha.anov)
+- [v0.9.0-beta](v0.9.0-beta.anov)
 - [v0.9.0-rc1](v0.9.0-rc1/)
 - v0.9.0-rc2
 - v0.9.0-rc3
@@ -15,7 +11,7 @@
 - v0.9.1
 - v0.9.2
 - v0.9.3
+- [v0.9.4](latest/)[^dev]
 
-### Development Version
-
-- [v0.9.4](latest/)
+[^v0-8-0]: The version was designed only UI and is not game engine. Therefor, no samples are available.
+[^dev]: This version is under development. Therefor, subject to change in the future.
