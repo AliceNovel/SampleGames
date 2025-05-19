@@ -5,27 +5,7 @@ This repository contains a lot of samples using Anov Syntax or CommonNovel for A
 ## Official Samples
 
 - [Anov Syntax For Alice Console](AliceConsole)
-  - v0.1.0
-  - v0.1.1
-  - v0.1.2
-  - v0.2.0
-  - v0.3.0
-  - v0.4.0 (under development)
-
 - [Anproj file For Alice Novel](AliceNovel)
-  - [v0.x](AliceNovel/v0.x)
-    - [v0.9.0-alpha](AliceNovel/v0.x/v0.9.0-alpha/main.anov)[^anov]
-    - [v0.9.0-beta](AliceNovel/v0.x/v0.9.0-beta/main.anov)[^anov]
-    - [v0.9.0-rc1](AliceNovel/v0.x/v0.9.0-rc1/)
-    - v0.9.0-rc2
-    - v0.9.0-rc3
-    - v0.9.0-rtm
-    - v0.9.0
-    - v0.9.1
-    - v0.9.2
-    - v0.9.3
-    - v0.9.4 (under development)
-
 - [CommonNovel](CommonNovel)
   - v0.1.0 (under development)
 
