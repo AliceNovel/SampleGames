@@ -4,7 +4,7 @@
 
 ### Released Version 
 
-- ~~v0.8.0~~ (was designed only UI, it other words, this is not game engine in in this version. So its sample is not exist)
+- ~~v0.8.0~~ (was designed only UI and is not game engine in this version. So its sample is not exist.)
 - [v0.9.0-alpha](v0.9.0-alpha/main.anov)
 - [v0.9.0-beta](v0.9.0-beta/main.anov)
 - [v0.9.0-rc1](v0.9.0-rc1/)
