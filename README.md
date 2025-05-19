@@ -4,7 +4,7 @@ This repository contains a lot of samples using Anov Syntax or CommonNovel for A
 
 ## Official Samples
 
-- Anov Syntax For Alice Console
+- [Anov Syntax For Alice Console](AliceConsole)
   - v0.1.0
   - v0.1.1
   - v0.1.2
@@ -12,11 +12,11 @@ This repository contains a lot of samples using Anov Syntax or CommonNovel for A
   - v0.3.0
   - v0.4.0 (under development)
 
-- Anproj file For Alice Novel
-  - [v0.x](v0.x)
-    - [v0.9.0-alpha](v0.x/v0.9.0-alpha/main.anov)[^anov]
-    - [v0.9.0-beta](v0.x/v0.9.0-beta/main.anov)[^anov]
-    - [v0.9.0-rc1](v0.x/v0.9.0-rc1/)
+- [Anproj file For Alice Novel](AliceNovel)
+  - [v0.x](AliceNovel/v0.x)
+    - [v0.9.0-alpha](AliceNovel/v0.x/v0.9.0-alpha/main.anov)[^anov]
+    - [v0.9.0-beta](AliceNovel/v0.x/v0.9.0-beta/main.anov)[^anov]
+    - [v0.9.0-rc1](AliceNovel/v0.x/v0.9.0-rc1/)
     - v0.9.0-rc2
     - v0.9.0-rc3
     - v0.9.0-rtm
@@ -26,14 +26,14 @@ This repository contains a lot of samples using Anov Syntax or CommonNovel for A
     - v0.9.3
     - v0.9.4 (under development)
 
-- CommonNovel
+- [CommonNovel](CommonNovel)
   - v0.1.0 (under development)
 
 [^anov]: (Anov Syntax)
 
 ## Community Samples
 
-- [Ivy Cafeteria - SRFB](https://github.com/ivycafe/srfb/tree/main/src) (Alice Novel v0.9.1 or later)
+- [SRFB - Ivy Cafeteria](https://github.com/ivycafe/srfb/tree/main/src) (Alice Novel v0.9.1 or later)
 
 ## Alice Project Links
 
