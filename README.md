@@ -24,4 +24,4 @@ This repository contains a lot of samples using Anov Syntax or CommonNovel for A
 
 ## License
 
-This project is licensed under the [CC-BY-4.0](./LICENSE).
+This project is licensed under the [CC-BY-SA 4.0](./LICENSE).
